@@ -79,3 +79,9 @@ To run this project, you will need to set up your local environment variables to
 <br>
 
 Run the backend first and then do npm run dev on your IDE for the front-end. Vite would show you the PORT where is going to be my web app in your localhost. Make sure that if it is the same as the Back-end PORT in the file security>SecurityConfig.java
+
+---
+All code is in a .ZIP file that you can download via Google Drive:
+<br>
+https://drive.google.com/file/d/1Nw8r3U5uJCWVaPZvNGE6Fmo_uaoH0SxR/view?usp=sharing
+
