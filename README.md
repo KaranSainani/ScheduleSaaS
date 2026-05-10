@@ -45,7 +45,6 @@ The system manages two distinct roles: **ADMIN** and **CLIENT**. All changes mad
 | Book an appointment | ✅ | ✅ |
 | Check personal scheduled appointments | ✅ | ✅ |
 | Validate/Confirm client appointments | ✅ | - |
-| Delete appointments | ✅ | - |
 | View client list | ✅ | - |
 | Delete client users | ✅ | - |
 
